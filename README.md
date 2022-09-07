@@ -35,7 +35,9 @@ This simply python program will make you able to download all the music that you
      -Ubuntu >> "sudo apt-get install python3-tk" and "pip install tk"
      -Windows >> "pip install tk"
      
-4- install ffmpeg
+4 - Install yt_dlp with "pip install yt_dlp"  
+     
+5 - install ffmpeg
 
 Done!
 *Note: the downloaded songs will be avaiable in the Not-Downloader-main folder
