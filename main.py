@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
+from yt_dlp import YoutubeDL
 from os import link
-import youtube_dl
 import tkinter as tk
 
 window = tk.Tk() 
@@ -33,7 +33,7 @@ ydl_opts = {
 
 def download():
     link = text_input.get() 
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    with YoutubeDL(ydl_opts) as ydl:
        ydl.download([link])
 
 first_button = tk.Button(text="Download", command=download) 
