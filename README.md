@@ -38,6 +38,7 @@ This simply python program will make you able to download all the music that you
 4- install ffmpeg
 
 Done!
+*Note: the downloaded songs will be avaiable in the Not-Downloader-main folder
 
 ## License
 
