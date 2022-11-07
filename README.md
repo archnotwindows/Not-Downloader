@@ -31,8 +31,9 @@ This simply python program will make you able to download all the music that you
   
 2 - Put the poweroffer extracted folder in the Desktop
   
-3 - Install tkinter with these commands 
-     -Ubuntu >> "sudo apt-get install python3-tk" and "pip install tk"
+3 - Install tkinter with these commands:
+  
+     -Ubuntu >>  "sudo apt-get install python3-tk" and "pip install tk"
      
      -Windows >> "pip install tk"
      
