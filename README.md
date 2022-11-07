@@ -33,11 +33,12 @@ This simply python program will make you able to download all the music that you
   
 3 - Install tkinter with these commands:
   
-     -Ubuntu >>  "sudo apt-get install python3-tk" and "pip install tk"
+      sudo apt-get install python3-tk 
+      pip install tk
+      pip install tk
      
-     -Windows >> "pip install tk"
-     
-4 - Install yt_dlp with "pip install yt_dlp"  
+4 - Install yt_dlp with 
+      pip install yt_dlp
      
 5 - install ffmpeg
 
