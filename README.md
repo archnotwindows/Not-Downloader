@@ -45,7 +45,8 @@ This simply python program will make you able to download all the music that you
 
 Done!
 *Note: the downloaded songs will be avaiable in the Not-Downloader-main folder
-
+  
+## Let's run!
  To execute the program you may need to run the python script with
   
       python3 main.py
