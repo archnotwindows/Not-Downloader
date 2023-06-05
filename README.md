@@ -47,7 +47,9 @@ Done!
 *Note: the downloaded songs will be avaiable in the Not-Downloader-main folder
 
  To execute the program you may need to run the python script with
-   python3 main.py
+  
+      python3 main.py
+  
  So to make it easier I've created a .exe file only for 64bit Winows systems
  
 ## License
